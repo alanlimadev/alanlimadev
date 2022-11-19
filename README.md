@@ -1,5 +1,7 @@
-## Olá! Eu sou o Alan Lima! Atualmente sou acadêmico no curso de Engenharia de Computação da UFC e futuro desenvolver Front-End!
-
+## Olá! Eu sou o Alan Lima! 
+Atualmente sou acadêmico no curso de Engenharia de Computação da UFC e busco me tornar um desenvolver Front-End!
+Acompanhe minha jornada por meio dos meus repositórios.
+##
 <div align="center">
   <a href="https://github.com/alanlimadev">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=alanlimadev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
