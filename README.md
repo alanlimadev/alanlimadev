@@ -4,7 +4,7 @@ Acompanhe minha jornada por meio dos meus repositórios.
 ##
 <div align="center">
   <a href="https://github.com/alanlimadev">
-  <img height="167em" src="https://github-readme-stats-signma-five.vercel.app/api?username=alanlimadev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanlimadev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanlimadev&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
