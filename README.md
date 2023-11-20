@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Alan Lima! 
-Atualmente sou acadêmico no curso de Engenharia de Computação da UFC e busco me tornar um desenvolver back-end!
+Atualmente sou acadêmico no curso de Engenharia de Computação da UFC e busco me tornar um Desenvolver Front-End!
 Acompanhe minha jornada por meio dos meus repositórios.
 ##
 <div align="center">
