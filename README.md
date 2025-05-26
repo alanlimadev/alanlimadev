@@ -9,7 +9,7 @@ Atualmente trabalho como freelancer em projetos de desenvolvimento Full Stack, a
 
 🏆 Foco em criar interfaces modernas, performáticas e com experiência do usuário refinada.
 
-💼 Atuo com React.js, Next.js, NestJS, React Native, entre outros.
+💼 Atuo com Figma, React.js, Next.js, NestJS, React Native, entre outros.
 
 🎯 Experiência prática em gestão de times, code review e deploy de aplicações.
 
@@ -36,7 +36,7 @@ Atualmente trabalho como freelancer em projetos de desenvolvimento Full Stack, a
   <img align="center" alt="Alan-PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Alan-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
   <img align="center" alt="Alan-Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  
+  <img align="center" alt="Alan-WordPress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">
           
 </div>
   
