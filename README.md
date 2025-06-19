@@ -1,7 +1,7 @@
 ## 🖐️ Olá! Eu sou o Alan Lima!
 Sou Desenvolvedor Full Stack e Web Designer, acadêmico de Engenharia de Computação na UFC - Sobral, com paixão por transformar ideias em produtos digitais de qualidade! 🚀
 
-Atualmente trabalho como freelancer em projetos de desenvolvimento Full Stack, além de atuar como Monitor de Tecnologias Web e Coordenador de Projetos na empresa júnior Loading Desenvolvimento Jr.
+Atualmente trabalho como freelancer em projetos de desenvolvimento Full Stack, além de atuar como Coordenador de Projetos na empresa júnior Loading Desenvolvimento Jr.
 
 ## 🚀 Sobre mim
 
