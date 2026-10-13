@@ -1,7 +1,5 @@
 ## 🖐️ Olá! Eu sou o Alan Lima!
-Sou Desenvolvedor Full Stack e Web Designer, acadêmico de Engenharia de Computação na UFC - Sobral, com paixão por transformar ideias em produtos digitais de qualidade! 🚀
-
-Atualmente trabalho como freelancer em projetos de desenvolvimento Full Stack, além de atuar como Coordenador de Projetos na empresa júnior Loading Desenvolvimento Jr.
+Sou Desenvolvedor, acadêmico de Engenharia de Computação na UFC - Sobral, com paixão por transformar ideias em produtos digitais de qualidade! 🚀
 
 ## 🚀 Sobre mim
 
@@ -15,11 +13,6 @@ Atualmente trabalho como freelancer em projetos de desenvolvimento Full Stack, a
 
 🌍 Busco constante evolução como Desenvolvedor Web Full Stack.
 ##
-<div align="center">
-  <a href="https://github.com/alanlimadev">
-  <img height="167em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanlimadev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="167em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanlimadev&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 <div style="display: inline_block"><br>
   
@@ -43,9 +36,5 @@ Atualmente trabalho como freelancer em projetos de desenvolvimento Full Stack, a
   ##
  
 <div> 
-  
-  <a href="https://instagram.com/alanlimadev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alanreislm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/alanlimadev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
